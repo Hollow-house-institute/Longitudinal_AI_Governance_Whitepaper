@@ -1,37 +1,25 @@
-# Authority Declaration
-# Longitudinal AI Governance Whitepaper
+# Hollow House Institute — Authority Record
 
-## Canonical Artifact Status
-This repository contains the canonical public version of the Hollow House Institute white paper on longitudinal behavioral governance for AI systems.
+The Hollow House Institute maintains terminology and governance standards for Behavioral AI Governance.
 
-## Human Authority
-Repository Authority: Amy Pierce Adams, Human Authority (HHI)  
-Contact: data@hollowhouse.org  
-Organization: Hollow House Institute
+## Maintainer
+Amy Pierce Adams
 
-## Authority Binding
-All governance decisions for this repository require explicit human approval.
+## Research Identity
+ORCID: https://orcid.org/0009-0009-4806-1949  
+LinkedIn: https://www.linkedin.com/in/hollow-house-institute-3ab5a2182
 
-## Decision Authority
-The named authority has sole decision power over:
-- Content modifications
-- Governance documentation
-- License interpretations
-- Version releases
-- Canonical tagging
+## Canonical Glossary
+https://github.com/hhidatasettechs-oss/Hollow_House_Standards_Library
 
-## Stop Authority
-The repository authority has unconditional stop authority over unauthorized changes or use.
+## Scholarly Publication
+Zenodo DOI  
+https://zenodo.org/uploads/18764662
 
-## Authority Chain
-1. Human Authority  
-2. HHI Master License Suite  
-3. HHI_GOV_01  
-4. Hollow_House_Standards_Library
+## Domain
+Behavioral AI Governance  
+Governance Infrastructure  
+Execution-Time Governance
 
-## Change Control
-No automated system may modify governance artifacts.
-
-Last Updated: 2026-02-07  
-Version: 1.0.0  
-Status: ACTIVE
+Time turns behavior into infrastructure.
+Behavior is the most honest data there is.
